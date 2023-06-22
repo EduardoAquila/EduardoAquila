@@ -22,11 +22,5 @@
     <a href = "https://www.linkedin.com/in/eduardo-áquila-garcia-dos-santos-13b796171/">
       <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
-    </a>
 </div>
   

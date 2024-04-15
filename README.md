@@ -6,9 +6,9 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="center">
+  <img align="left" height="250" alt="coding-time" src="https://static.vecteezy.com/system/resources/previews/008/505/367/original/work-from-home-desk-setup-3d-illustration-png.png">
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://static.vecteezy.com/system/resources/previews/008/505/367/original/work-from-home-desk-setup-3d-illustration-png.png">
     <h1 align="center">Linguagem que uso</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

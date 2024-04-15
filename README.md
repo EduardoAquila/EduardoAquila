@@ -3,11 +3,12 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAquila&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAquila&layout=compact&langs_count=16&theme=darcula"/>
+  <img align="left" height="250" alt="coding-time" src="https://static.vecteezy.com/system/resources/previews/008/505/367/original/work-from-home-desk-setup-3d-illustration-png.png">
 </div>
 <br>
 
 <div  align="center">
-  <img align="left" height="250" alt="coding-time" src="https://static.vecteezy.com/system/resources/previews/008/505/367/original/work-from-home-desk-setup-3d-illustration-png.png">
+  
   <div style="display: inline_block"><br>
     <h1 align="center">Linguagem que uso</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

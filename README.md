@@ -20,7 +20,7 @@
       <img width="30" src="https://www.pngall.com/wp-content/uploads/2/Email-PNG-HD-Image.png">
     </a>
     <a href = "https://www.linkedin.com/in/eduardo-áquila-garcia-dos-santos-13b796171/">
-      <img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
   
